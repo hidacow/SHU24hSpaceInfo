@@ -1,2 +1,4 @@
 requests>=2.23.0
 rsa>=4.7.2
+qrcode
+pillow
